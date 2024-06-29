@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ghadeer</h1>
-<h3 align="center">IT student at Qassim University</h3>
 
 <p align="left"> <a href="https://twitter.com/coolkarew" target="blank"><img src="https://img.shields.io/twitter/follow/coolkarew?logo=twitter&style=for-the-badge" alt="coolkarew" /></a> </p>
 
-- 🌱 I’m currently learning **Programming,flutter,IT, design an applications**
+- 🌱 I’m currently learning **Programming,flutter,IT, design an applications and react native**
 
 - 📫 How to reach me **ghadeeraltassan@gmail.com**
 
