@@ -4,8 +4,8 @@
   </a>
 </p>
 
-I am an IT graduate with a strong interest in technology, programming, and networks.  
-I am skilled in Python, Java, front-end development, Flutter, and React Native.  
+-I am an IT graduate with a strong interest in technology, programming, and networks.  
+-I am skilled in Python, Java, front-end development, Flutter, and React Native.  
 
 - 📫 How to reach me: **ghadeeraltassan@gmail.com**
 
